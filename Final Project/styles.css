@@ -1,0 +1,68 @@
+@font-face {
+    font-family: fakehope;
+    src: url(Fonts/FakeHope.ttf);
+}
+
+@font-face {
+    font-family: LEDLIGHT;
+    src: url(Fonts/LEDLIGHT.otf);
+
+
+body{padding: 5em;}
+
+h1,h2{text-align: center;}
+
+
+}
+
+p{width:750px;}
+/*The next rule centers and spaces the media*/
+img, video, audio, canvas, p{
+    display: block; 
+    margin: 0 auto;
+    padding-bottom: 2em}
+.credits{font-size: 0.5em;
+    color: rgb(200,200,200);}
+
+    body{
+
+        background-color: #1e1e1e;
+        text-align: center;
+        color: #e9e9e9;
+        font-size: 70px;
+
+    }
+
+    p{
+        font-size: 25px;
+
+    }
+
+    h1 {
+
+    font-family: fakehope;
+    padding: 15px
+    
+
+}
+
+
+h2 {
+
+     font-family: LEDLIGHT;
+    font-size: 60px;
+}
+
+h3 {
+
+    font-family: fakehope;
+    padding: 4px 
+
+}
+
+h4 {
+    font-family: fakehope;
+    padding: 4px 
+    
+}
+    
